@@ -1,0 +1,16 @@
+{
+  "name": "eventsapp2",
+  "version": "1.0.0",
+  "description": "events app",
+  "main": "handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.51",
+    "serverless-offline": "^6.1.5",
+    "serverless-plugin-typescript": "^1.1.9"
+  }
+}
